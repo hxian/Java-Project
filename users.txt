@@ -1,0 +1,5 @@
+James/james@usc.edu/usctrojans/20/PREMIUM
+Haotian/hxian@usc.edu/password1/22/PREMIUM
+Lora/lora@usc.edu/ilovejava/19/PREMIUM
+Henry/henry@usc.edu/oop/20/PREMIUM
+Jack/jack@usc.edu/losangeles/20/PREMIUM
